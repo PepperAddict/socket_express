@@ -1,0 +1,18 @@
+{
+  "name": "socket_express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/PepperAddict/socket_express.git",
+  "author": "<jenearly@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
